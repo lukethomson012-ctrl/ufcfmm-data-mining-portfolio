@@ -1,2 +1,8 @@
-Dataset will be added here.
-Source: [URL to dataset]
+Dataset: Telco Customer Churn
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download
+
+Description:
+Publicly available telecom customer churn dataset commonly used for churn prediction.
+Used in this project as a proxy for UK telecom providers such as Three, EE, and Vodafone.
